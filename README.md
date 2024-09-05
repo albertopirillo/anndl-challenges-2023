@@ -1,4 +1,4 @@
-# Deep Neural Networks Competitions
+# Deep Neural Networks Competitions 
 
 This repository contains the code used in the two competitions of the *Artificial Neural Networks and Deep Learning (ANNDL)* course during the academic year 2023-2024 at Politecnico di Milano. The code for both projects is implemented in Python and relies mainly on the [Keras](https://keras.io) and [TensorFlow](https://www.tensorflow.org) libraries.
 
